@@ -29,3 +29,20 @@ This repository contains my SQL assignments completed as part of my Data Analyti
 
 ## Purpose
 To develop practical SQL skills for data analysis, database querying and data manipulation.
+
+## SQL Concepts Practised
+
+- Database and table creation (DDL)
+- Primary and Foreign Key constraints
+- Data insertion and modification (DML)
+- DISTINCT and column aliases
+- WHERE, ORDER BY and LIMIT
+- Aggregate functions (SUM, MIN, AVG)
+- GROUP BY and HAVING
+- INNER JOIN, LEFT JOIN and RIGHT JOIN
+- Handling missing values using NULL
+
+## Learning Outcome
+
+Developed foundational SQL skills through hands-on exercises using MySQL, with practical experience in database management, querying and analysing relational data.
+
