@@ -1,28 +1,31 @@
-# MySQL Assignment 1 – DDL Commands & Constraints
+# SQL Assignments
 
-## Project Overview
-This project demonstrates fundamental MySQL operations using Data Definition Language (DDL) commands and database constraints.
+This repository contains my SQL assignments completed as part of my Data Analytics learning journey. These assignments helped me understand SQL concepts through practical exercises using MySQL.
 
-## Topics Covered
-- Creating databases and tables
-- Using `CREATE DATABASE` and `CREATE TABLE`
-- Altering tables with `ALTER TABLE`
-- Adding, modifying, renaming, and dropping columns
-- Renaming tables
-- Using `TRUNCATE TABLE` and `DROP TABLE`
-- Applying primary key and foreign key constraints
-- Using `NOT NULL`, `UNIQUE`, `ENUM`, `CHECK`, and `DEFAULT` constraints
-- Testing database constraints with sample SQL statements
+## Assignments
+
+### Assignment 1 – DDL and Constraints
+- Database and table creation
+- Data types and constraints
+- Primary keys and foreign keys
+- NOT NULL, UNIQUE, CHECK and DEFAULT constraints
+
+**File:** `Assignment 1 SQL.sql`
+
+### Assignment 2 – Querying Data
+- DISTINCT and column aliases
+- WHERE clause and filtering
+- ORDER BY and LIMIT
+- Aggregate functions: SUM, MIN and AVG
+- GROUP BY and HAVING
+- INNER JOIN, LEFT JOIN and RIGHT JOIN
+- Updating missing values
+
+**File:** `MySQL_Assignment_2_Querying_Data.sql`
 
 ## Tools Used
 - MySQL
 - MySQL Workbench
 
-## Files
-- `SQL_Assignment_1_DDL_Constraints.sql` – SQL statements for table creation, alteration, and constraint exercises.
-
-## Learning Outcome
-Practiced writing and executing SQL statements, defining relationships between tables, and applying constraints to maintain data integrity.
-
-## Note
-This is a learning assignment created for SQL practice.
+## Purpose
+To develop practical SQL skills for data analysis, database querying and data manipulation.
