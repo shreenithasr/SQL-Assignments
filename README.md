@@ -1,10 +1,12 @@
 # SQL Assignments
 
-This repository contains my SQL assignments completed as part of my Data Analytics learning journey. These assignments helped me understand SQL concepts through practical exercises using MySQL.
+This repository contains my SQL assignments completed as part of my Data Analytics learning journey. These assignments helped me develop practical SQL skills through hands-on exercises using MySQL, covering database creation, data manipulation, querying and analysis of relational data.
 
 ## Assignments
 
 ### Assignment 1 – DDL and Constraints
+
+**Topics Covered:**
 - Database and table creation
 - Data types and constraints
 - Primary keys and foreign keys
@@ -12,7 +14,11 @@ This repository contains my SQL assignments completed as part of my Data Analyti
 
 **File:** `Assignment 1 SQL.sql`
 
+---
+
 ### Assignment 2 – Querying Data
+
+**Topics Covered:**
 - DISTINCT and column aliases
 - WHERE clause and filtering
 - ORDER BY and LIMIT
@@ -23,12 +29,34 @@ This repository contains my SQL assignments completed as part of my Data Analyti
 
 **File:** `MySQL_Assignment_2_Querying_Data.sql`
 
+---
+
+### Assignment 3 – Module End Assignment: Analyzing E-Learning Platform Purchases Using MySQL
+
+**Project Overview:**
+
+This project focuses on analysing e-learning platform purchase data to understand learner purchasing behaviour, identify popular courses and examine revenue generated across different course categories.
+
+**Topics Covered:**
+- Creating a relational database with multiple tables
+- Defining primary keys and foreign key relationships
+- Inserting and retrieving sample records
+- Exploring data using INNER JOIN, LEFT JOIN and RIGHT JOIN
+- Calculating total spending by learners
+- Identifying the top 3 courses based on quantity sold
+- Analysing category-wise revenue and unique learners
+- Identifying learners purchasing from multiple categories
+- Finding courses that have never been purchased
+- Deriving business insights and recommendations from the analysis
+
+**Project Files:** `Module-End-Assignment/`
+
+---
+
 ## Tools Used
+
 - MySQL
 - MySQL Workbench
-
-## Purpose
-To develop practical SQL skills for data analysis, database querying and data manipulation.
 
 ## SQL Concepts Practised
 
@@ -41,8 +69,11 @@ To develop practical SQL skills for data analysis, database querying and data ma
 - GROUP BY and HAVING
 - INNER JOIN, LEFT JOIN and RIGHT JOIN
 - Handling missing values using NULL
+- COALESCE() and FORMAT()
+- Relational data analysis
 
-## Learning Outcome
+## Learning Outcomes
 
-Developed foundational SQL skills through hands-on exercises using MySQL, with practical experience in database management, querying and analysing relational data.
+Through these assignments, I developed practical SQL skills using MySQL and gained experience in creating databases, managing relational tables, writing queries, performing JOIN operations and analysing data to generate meaningful insights.
 
+This repository reflects my learning progress and hands-on practice as an aspiring Data Analyst.
