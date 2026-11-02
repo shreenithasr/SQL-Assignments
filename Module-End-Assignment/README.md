@@ -41,8 +41,8 @@ The project explores:
 - Course with no purchases: Digital Marketing Fundamentals
 
 ## Project Files
-- `Module End Assignment(1).sql` – SQL script containing database creation, sample data, JOIN operations and analytical queries.
-- `SQL Module End Assignment Docs(1).pdf` – One-page summary report presenting key insights and business recommendations.
+- `Module End Assignment.sql` – SQL script containing database creation, sample data, JOIN operations and analytical queries.
+- `SQL Module End Assignment Docs.pdf` – One-page summary report presenting key insights and business recommendations.
 
 ## Conclusion
 This project provided practical experience in using SQL to analyse relational data and identify meaningful patterns in learner purchasing behaviour. It also demonstrates how data analysis can support business insights and decision-making.
